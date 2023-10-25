@@ -19,4 +19,4 @@
 
 **Conclusion and Future Improvements**: The project concludes by stating that the model meets its objective but has room for improvement, such as adapting for multi-object classification and improving regression predictions.
 
-Overall, your project demonstrates a comprehensive understanding of the tasks involved in object classification and localization within images and highlights the challenges faced in achieving accurate results. Your future improvement suggestions provide a roadmap for enhancing the model's performance.
+Overall, my project demonstrates a comprehensive understanding of the tasks involved in object classification and localization within images and highlights the challenges faced in achieving accurate results. The future improvement suggestions provide a roadmap for enhancing the model's performance.
